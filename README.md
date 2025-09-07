@@ -190,13 +190,13 @@ int read_file_contents(const char* filename);
 #### Project Setup
 
 1. **Fork this repository**
-    * Visit https://github.com/stjohns-edu/CUS1163-lab01
+    * Visit https://github.com/stjohns-edu/cus1163-lab01
     * Click the "Fork" button in the top-right corner of the page
     * Wait for the repository to be forked to your GitHub account
 
 2. **Clone your forked repository**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/cus1168-lab01
+   git clone https://github.com/YOUR-USERNAME/cus1163-lab01
    cd cus1168-lab01
    ```
 
